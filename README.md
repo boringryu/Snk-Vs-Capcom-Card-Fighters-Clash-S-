@@ -1,4 +1,4 @@
-==============================================================
+
   SNK vs. CAPCOM: CARD FIGHTERS' CLASH - CAPCOM VERSION
   Traducción al español (Rioplatense Neutro)
 ==============================================================
